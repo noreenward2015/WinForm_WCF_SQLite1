@@ -1,0 +1,6 @@
+c:\users\noreen ward\documents\visual studio 2013\Projects\RestService\RestService\bin\RestService.dll.config
+c:\users\noreen ward\documents\visual studio 2013\Projects\RestService\RestService\bin\RestService.dll
+c:\users\noreen ward\documents\visual studio 2013\Projects\RestService\RestService\bin\RestService.pdb
+c:\users\noreen ward\documents\visual studio 2013\Projects\RestService\RestService\obj\Debug\RestService.csprojResolveAssemblyReference.cache
+c:\users\noreen ward\documents\visual studio 2013\Projects\RestService\RestService\obj\Debug\RestService.dll
+c:\users\noreen ward\documents\visual studio 2013\Projects\RestService\RestService\obj\Debug\RestService.pdb
